@@ -49,7 +49,7 @@ To stop the containers and remove the named volumes:
 
 ## Managing Containers and Volumes
 
-### Containers
+## Containers
 
 List currently running containers:
 >docker ps
@@ -76,7 +76,7 @@ Inspect detailed information about a container:
 View live resource usage (CPU, memory, network) per container:
 >docker container stats
 
-### Volumes
+## Volumes
 
 List all Docker volumes:
 >docker volume ls
