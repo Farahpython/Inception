@@ -1,6 +1,6 @@
 # Developer documentation 💻
 
-This project aims to demonstrate how docker solves the "But it doesn't work on my machine" dilemma.
+This project aims to demonstrate how docker solves the "But it works on my machine" dilemma.
 
 ### Prerequisites
 - A Linux virtual machine (this project was built/tested on [your Debian version])
