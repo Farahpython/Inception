@@ -2,7 +2,7 @@
 
 ### Description
 
-**Inception** is a project that introduces Docker,a software platform that delivers software in **containers**.
+**Inception** is a project that introduces Docker, a software platform that delivers software in **containers**.
 Containers are lightweight packages that contain an application and everything it needs to run.
 Containers are also running instances of an **Image**, a read-only template that contains the files (libraries, dependencies, config)
 and startup instructions to run a piece of software. While Docker is a kind of virtualization, it’s different from regular Virtual Machines (VMs).
