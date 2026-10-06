@@ -47,10 +47,12 @@ To stop the containers and remove the named volumes:
 
 **Docker Cheat Sheet**:
 - https://docs.docker.com/get-started/docker_cheatsheet.pdf
+  
 **For reading**:
 - https://www.reddit.com/r/docker/comments/keq9el/please_someone_explain_docker_to_me_like_i_am_an/
 - https://www.techtarget.com/it-infrastructure/definition/Docker-image
 - https://medium.com/@rashmikanethsarani119/docker-data-persistence-understanding-volumes-vs-bind-mounts-be65af175eb0
+  
 **Docker installation**:
 -  https://docs.sevenbridges.com/docs/install-docker-on-linux
 **NGINX configuration**:
